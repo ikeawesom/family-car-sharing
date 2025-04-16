@@ -1,5 +1,3 @@
-import { Timestamp } from "next/dist/server/lib/cache-handlers/types";
-
 export type responseType = {
   status?: number;
   errorCode?: number;
